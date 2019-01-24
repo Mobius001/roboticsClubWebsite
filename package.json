@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "responsive club website",
   "main": "index.js",
-  "homepage": "https://mobius001.github.io/robotics_club_website",
+  "homepage": "https://mobius001.github.io/roboticsClubWebsite",
   "scripts": {
     "sass": "node-sass -w scss/ -o /css --recursive",
     "deploy": "gh-pages -d dist"
