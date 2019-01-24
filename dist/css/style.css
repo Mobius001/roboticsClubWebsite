@@ -40,35 +40,35 @@ body, html{
 
 /*contact.html pictures to be used with parallax effect*/
 .pimg4{
-    background-image: url('/dist/img/contactSmartphone1.jpg');
+    background-image: url('../img/contactSmartphone1.jpg');
     min-height: 100%;
 }
 
 .pimg5{
-    background-image: url('/dist/img/yourFuture1.jpeg');
+    background-image: url('../img/yourFuture1.jpeg');
     min-height: 100%;
 }
 /*------------------------------------------------------*/
 
 /*about.html pictures to be used with parallax effect*/
 .pimg6{
-  background-image: url('/dist/img/lightbulb2.jpeg');
+  background-image: url('../img/lightbulb2.jpeg');
   min-height: 100%;
 }
 
 .pimg7{
-  background-image: url('/dist/img/studyRoom1.jpeg');
+  background-image: url('../img/studyRoom1.jpeg');
   min-height: 100%;
 }
 
 /*projects.html pictures to be used with parallax effect*/
 .pimg8{
-  background-image: url('/dist/img/lightbulbLibrary1.jpeg');
+  background-image: url('../img/lightbulbLibrary1.jpeg');
   min-height: 100%;
 }
 
 .pimg9{
-  background-image: url('/dist/img/studyRoom2.jpeg');
+  background-image: url('../img/studyRoom2.jpeg');
   min-height: 100%;
 }
 /*-------------------------------------------------------*/
