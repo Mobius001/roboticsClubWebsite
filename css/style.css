@@ -23,7 +23,7 @@ body, html{
 
 /*index.html pictures to be used with parallax effect*/
 .pimg1{
-    background-image: url('/dist/img/robot1.jpeg');
+    background-image: url('img/robot1.jpeg');
     min-height: 100%;
 }
 
